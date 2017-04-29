@@ -5,6 +5,15 @@
 	<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"/>
 </head>
 <body>
+	<?php
+	include("php/data/quiz.php");
+	include("php/html/quiz.php");
+
+	formatQuestion(questions("cultge"));
+	?>
+
+
+
 	<div class="container">
 		<div class="title">
 			<h1>QuizzMe Theme:</h1>

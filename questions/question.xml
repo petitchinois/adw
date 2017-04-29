@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<theme>Culture générale</theme>
+<difficulte>Debutant</difficulte>
+	<question>Quel célèbre dictateur dirigea l'URSS du début des années 1953? </question>
+		<rep> Trotski </rep>
+		<rep>Lénine</rep>
+		<rep>Molotov</rep>
+		<rep><vrai>Staline</rep>
+
+	<question>Dans quel pays peut-on trouver la Catalogne</question>
+		<rep>France</rep>
+		<rep>Italie</rep>
+		<rep>Portugal</rep>
+		<rep><vrai>Espagne</rep>
+
+	<question>Qui a dit "Les dés sont jetés" (Alea jacta est) ?</question>
+		<rep><vrai>Jules César</rep>
+		<rep>Napoléon</rep>
+		<rep>Hitler</rep>
+		<rep>Staline</rep>
+
+	<question>Parmi ces animaux, lequel peut se déplacer le plus rapidement</question>
+		<rep><vrai>Le guépard</rep>
+		<rep>Le lion</rep>
+		<rep>Le léopard</rep>
+
+	<question>Qui était le Dieu de la guerre dans la mythologie grecque</question>
+		<rep>Apollon</rep>
+		<rep><vrai>Arès</rep>
+		<rep>Hadès</rep>
+		<rep>Hermès</rep>	
+
+	<question> Quel cinéaste a réalisé "Parle avec elle" et "Volver" ? </question>
+		<rep><vrai>Pedro Almodovar</rep>
+		<rep>Pablo Trapero</rep>
+		<rep>Guillermo del Toro</rep>
+		<rep>Woody Allen</rep>
+
+	<question> Par quel mot désigne-t-on une belle-mère cruelle ?</question>
+		<rep><vrai>Marâtre</rep>
+		<rep>Chenapan</rep>
+		<rep>Godiche</rep>
+		<rep>Jocrisse</rep>		
+
+	<question> A qui doit-on la chanson "I Shot the Sheriff" </question>
+		<rep>Eric Clapton</rep>
+		<rep>UB40</rep>
+		<rep><vrai>Bob Marley </rep>
+		<rep> Jim Morrison</rep>
+
+	<question>Dans quelle ville italienne se situe l'action de la pièce de Shakespeare "Roméo et Juliette" ? </question>
+	<rep>Milan</rep>
+	<rep>Rome</rep>
+	<rep><vrai>Vérone</rep>
+	<rep>Venise</rep>
+
+	<question> Quel pays a remporté la coupe du monde de football en 2014?</question>
+		<rep>L'Argentine</rep>
+		<rep>L'Italie</rep>
+		<rep><vrai>L'Allemagne</rep>
+		<rep>Le Brésil</rep>
+
+	<question> Quel roi de France proclama l'Edit de Nantes ?</question>
+		<rep>Louis XIII</rep>
+		<rep><vrai> Henri IV </rep>
+		<rep>François Ier </rep>
+		<rep>Louis XIV </rep>
+
+	<question> A quel écrivain attribue-t-on la rédaction de l'Illiade et l'Odyssée?</question>
+		<rep>Virgile</rep>
+		<rep>Sophocle</rep>
+		<rep><vrai>Homère</rep>
+		<rep>Euripide</rep>
+
+	<question>Le drapeau russe est blanc, bleu et ..?</question>
+		<rep><vrai>rouge</rep>
+		<rep>vert</rep>
+		<rep>jaune</rep>
+		<rep>noir</rep>
+
+	<question> Quel acteur américain incarne le héros dans le film de Christopher Nolan de 2014 "Interstellar"? </question>
+		<rep><vrai>Matthew MacConaughey</rep>
+		<rep>Tom Cruise</rep>
+		<rep>Brad Pitt</rep>
+		<rep>Léonardo Di Caprio</rep>
+
+	<question> Qui s'est déclaré "premier flic de France"? </question>
+		<rep><vrai> Georges Clémenceau</rep>
+		<rep>Nicolas Sarkozy</rep>
+		<rep>Manuel Valls</rep>
+		<rep>Charles de Gaulle</rep>
+
+	<question> Quel animal andin de la famille des camélidés est élevé pour sa laine </question>
+		<rep><vrai>Le lama</rep>
+		<rep>Le buffle</rep>
+		<rep>Le yak</rep>
+		<rep>Le chameau</rep>
+
+	<question> Quel journal des terroristes islamistes ont-ils attaqué en janvier 2015 ? </question>
+		<rep>Le Monde</rep>
+		<rep><vrai>Charlie Hebdo</rep>
+		<rep>le Figaro</rep>
+		<rep>Libération</rep>
+
+	<question>Quel est le plus long fleuve en France? </question>
+		<rep>Le Rhône</rep>
+		<rep>Le Rhin</rep>
+		<rep><vrai>La Loire</rep>
+		<rep>La Seine</rep>
+
+	<question>A quel compositeur doit-on les bandes-son de films comme "Il était une fois en Amérique","Pour une poignée de dollars", ou "Le clan des Siciliens" ? </question>
+		<rep>John Barry</rep>
+		<rep><vrai>Ennio Morricone</rep>
+		<rep>Hans Zimmer</rep>
+		<rep>Vladimir Cosma</rep>
+
+	<question>Quel est l'impératif du verbe feindre à la première personne du pluriel ? </question>
+		<rep>Feignez!</rep>
+		<rep>Feins!</rep>
+		<rep><vrai>Feignons!</rep>
+		<rep>Feindez</rep>
+
+	<difficulte>Intermédiaire</difficulte>
+
+	<question>Que signifie l'adjectif volubile ?</question>
+		<rep>Qui parle peu</rep>
+		<rep>Qui est agressif</rep>
+		<rep><vrai>Qui parle beaucoup</rep>
+		<rep>Qui est gros et gras</rep> 	
+
+	<question>Lequel de ces films n'a pas été réalisé par Steven Spielberg ?</question>
+		<rep>E.T</rep>
+		<rep><vrai>Le seigneur des anneaux</rep>
+		<rep>Il faut sauver le soldat Ryan</rep>
+		<rep>Les dents de la mer</rep>
+
+	<question>De quand date le plus ancien témoignage d'écriture connu?</question>
+		<rep>33 000 av JC</rep>
+		<rep>33 av JC</rep>
+		<rep><vrai>3300 av JC</rep>
+		<rep>330 av JC </rep>
+
+	<question>A la tête de quel pays durement touché par la crise économique Alexis Tsipras a-t-il été élu en septembre 2015 ? </question>
+		<rep>Le Portugal</rep>
+		<rep>L'Espagne</rep>
+		<rep>L'Italie</rep>
+		<rep><vrai>La Grèce</rep>
+
+	<question>Où se situe l'île de Gorée ?</question>
+		<rep><vrai>Au Sénégal</rep>
+		<rep>Au Bénin</rep>
+		<rep>En Côte d'Ivoire</rep>
+		<rep>En Gambie</rep>
+
+	<question>Quel écrivain espagnol est l'auteur de Don Quichotte ?</question>
+		<rep><vrai>Miguel de Cervantes</rep>
+		<rep>Tirso de Molina</rep>
+		<rep>Lope de Vega</rep>
+		<rep>Balthasar Gracian</rep>
+
+	<question>Quel révolutinnaire et grand orateur a déclaré en 1792:"De l'audace, encore de l'audace, toujours de l'audace."</question>
+		<rep><vrai>Danton</rep>
+		<rep>Desmoulins</rep>
+		<rep>Robespierre</rep>
+		<rep>Saint-Just</rep>
+
+	<question>Sur le territoire de quel pays pouvait-on trouver les Aztèques ?</question>
+		<rep>Bréseil</rep>
+		<rep><vrai>Méxique</rep>
+		<rep>Argentine</rep>
+		<rep>Pérou</rep>
+
+	<question>Quelle capitale actuelle a été physiquement coupée en deux de 1961 à 1989 ?</question>
+		<rep>Prague</rep>
+		<rep><vrai>Berlin</rep> 
+		<rep>Belgrade</rep>
+		<rep>Tirana</rep>
+
+	<question>Qui a composé "l'Ode à la joie", hymne de l'Union Européenne ?</question>
+		<rep>Haydn</rep>
+		<rep>Wagner</rep>
+		<rep>Mozart</rep>
+		<rep>Beethoven</rep>	
+
+	<question>Quel pays a destitué sa présidente, Dilma Roussef le 31 août 2016 ?</question>
+		<rep>L'Argentine</rep>	
+		<rep><vrai>Le Brésil</rep>	
+		<rep>Le Venezuela</rep>	
+		<rep>La Colombie</rep>		
+
+	<question>Lequel de ces Etats n'est pas riverain de la mer Baltique ?</question>
+		<rep><vrai>La Norvège</rep>
+		<rep>L'Estonie</rep>
+		<rep>La Russie</rep>
+		<rep>La Rsueei</rep>
+
+	<question>Complétez: l'Assemblée ... s'est levée pour applaudir l'intervention</question>
+		<rep>toutes entière</rep>
+		<rep>toute entière</rep>
+		<rep><vrai>tout entière</rep>
+		<rep>toutes entières</rep>
+
+	<question>Le coeur a ses raisons que la raison ne connaît point est une pensée de ..</question>
+		<rep>Descartes</rep>
+		<rep><vrai>Pascal</rep>
+		<rep>Fénélon</rep>
+		<rep>Bossuet</rep>
+
+	<question>A quel compositeur doit-on "Nabucco" ?</question>
+		<rep>Wagner</rep>
+		<rep>Strauss</rep>
+		<rep>Puccini</rep>
+		<rep><vrai>Verdi</rep>	
+
+	<question>Quel grand félin a donné son nom à un roman de Josseph Kessel ?</question>
+		<rep>Le puma</rep>
+		<rep>Le chat</rep>
+		<rep><vrai>Le lion</rep>
+		<rep>Le tigre</rep>
+
+	<question>Qui joue le mari vengeur de Romy Schneider dans "Le vieux fusil" ?</question>
+		<rep>Jean-Louis Trintignant</rep>
+		<rep>Jean Rochefort</rep>
+		<rep><vrai>Philippe Noiret</rep>
+		<rep>Yves Montand</rep>
+
+	<question>Dans quelle ville se situait le palais de Charlemagne ?</question>
+		<rep>Bruges</rep>
+		<rep>Milan</rep>
+		<rep>Rome</rep>
+		<rep><vrai>Aix-la-Chapelle</rep>
+
+	<question>De quel pays les pandas sont-ils originaires ?</question>
+		<rep><vrai>De Chine</rep>
+		<rep>De Corée</rep>		
+		<rep>D'Australie</rep>	
+		<rep>Du Japon</rep>			
+
+	<question>Quel pays détient le plus de titre de champion du monde de rugby ?</question>
+		<rep>L'Angleterre</rep>
+		<rep>L'Afrique du Sud</rep>
+		<rep><vrai>La Nouvelle-Zélande</rep>
+		<rep>L'Australie</rep>
+
+	<difficulte>Difficile</difficulte>
+	
+	<question>Que désigne le "Royaume de Tolède" ?</question>
+		<rep>Le royaume barbare vandale</rep>
+		<rep>L'Emirat arabe en Espagne</rep>
+		<rep><vrai>Le royaume barbare wisigoth</rep>
+		<rep>Le royaume d'Espagne après la Reconquista</rep>
+
+	<question>On doit les parole du "chant des partisans" à Joseph Kessel et à ..</question>
+		<rep><vrai>Maurice Druon</rep>
+		<rep>Jean Giono</rep>
+		<rep>Jean Dutourd</rep>
+		<rep>Jacques Brel</rep>
+
+	<question>L'exercice des muscles élucidait les mythes que les mots avaient créés”. Quel écrivain japonais valorise ainsi l’exercice physique ?</question>
+		<rep><vrai>Yukio Mishima</rep>
+		<rep>Kenzaburo Oe</rep>
+		<rep>Haruki Murakami</rep>
+		<rep>Yasunari Kawabata</rep>
+
+	<question>Quel est la capitale du Soudan du Sud ?</question>
+		<rep>Bujumbura</rep>
+		<rep><vrai>Djouba</rep>
+		<rep>Lusaka</rep>
+		<rep>Kampala</rep>	
+
+	<question>Quelle entreprise a concentré toutes ses activités dans le conglomérat "Alphabet" en 2015 ?</question>
+		<rep>Amazone</rep>
+		<rep><vrai>Google</rep>
+		<rep>Facebook</rep>	
+		<rep>Apple</rep>
+
+	<question>Quel grand félin peut-on trouver dans les massifs alpins de France ?</question>
+		<rep>Le caracal</rep>
+		<rep>Le puma</rep>
+		<rep><vrai>Le lynx boréal</rep>
+		<rep>Le jaguar</rep>
+
+	<question>A qui doit-on la "Vénus d'Urbin"?</question>
+		<rep><vrai>Titien</reo>
+		<rep>Rembrandt</rep>
+		<rep>Véronèse</rep>
+		<rep>Le Tintoret</rep>
+
+	<question>Qu'est-ce que "l'épectase" ?</question>
+		<rep>La salle haute où Jesus institua l'Eucharistie</rep>
+		<rep>La bonne nouvelle</rep>
+		<rep>La manifestation de Jésus aux rois mages</rep>
+		<rep><vrai>Le progrès de l'homme vers Dieu</rep>
+
+	<question>Quel roman narre la destinée de la famille Buendia sur sept générations ?</question>
+		<rep>La guerre de la fin du monde</rep>
+		<rep>L'Aleph</rep>
+		<rep><vrai>Cent ans de solitude</rep>
+		<rep>LA maison aux esprits</rep>
+
+	<question>Dans quel pays trouve-t-on pas une importante minorité kurde ?</question>
+		<rep>En Turquie</rep>				
+		<rep>En Syrie</rep>
+		<rep><vrai>En Jordanie</rep>
+		<rep>En Iran</rep>
+
+	<question> En quelle année Pinochet prend-il le pouvoir au Chili au détriment de Salvador Allende ?</question>
+		<rep>1981</rep>
+		<rep>1977</rep>	
+		<rep>1969</rep>
+		<rep><vrai>1973</rep>
+
+	<question>Lequel des pays suivants compte des locuteurs du peul ?</question>
+		<rep>Somalie</rep>
+		<rep><vrai>Nigéria</rep>
+		<rep>Tanzanie</rep>
+		<rep>Botswana</rep>
+
+	<question>Pour quel roman de Marguerite Duras a-t-elle reçu le prix Goncourt en 1984 ?</question>
+		<rep>Un barrage contre le Pacifique</rep>
+		<rep>Hiroshima mon amour</rep>
+		<rep><vrai>L'amant</rep>
+		<rep>La douleur</rep>
+
+	<question>Dans quel film de 1973 Al Pacino arbore-t-il un air presque christique ?</question>
+	<rep><vrai>Serpico</rep>	
+	<rep>L'associé du diable</rep>	
+	<rep>Donnie Brasco</rep>	
+	<rep>Heat</rep>	
+
+	<question>Que dénonce la chanson d’Aznavour « Comme ils disent » ?</question>
+		<rep>Le racisme</rep>
+		<rep>Le machisme</rep>
+		<rep>La guerre</rep>
+		<rep><vrai>L'homophobie</rep>
+
+	<question>Quel compositeur a probablement été influencé par Dietrich Buxtehude ?</question>
+		<rep>Lully</rep>
+		<rep>Purcell</rep>
+		<rep><vrai>Bach</rep>
+		<rep>Vivaldi</rep>
+
+	<question>Qui est le dieu soleil dans la mythologie égyptienne ? </question>
+		<rep><vrai>Rê</rep>	
+		<rep>Anubis</rep>	
+		<rep>Osiris</rep>	
+		<rep>Horus</rep>	
+
+	<question>Complétez: les soldes de cette année .... recette ?</question>
+		<rep>feront-elles</rep>
+		<rep><vrai>feront-ils</rep>
+
+	<question>Quel animal célèbre est l'emblème des Etats-Unis ?</question>
+		<rep><vrai>Le pygargue</rep>
+		<rep>Le vautour fauve</rep>
+		<rep>Le milan noir</rep>
+		<rep>L'aigle royal</rep>
+
+	<question>De quelle origine est la race de chien dit "du pharaon"?</question>
+		<rep>Sicilienne</rep>	
+		<rep>Sarde</rep>	
+		<rep><vrai>Maltaise</rep>	
+		<rep>Chypriote</rep>	
+
+
+
+
+
+
+
+
